@@ -1,2 +1,2 @@
-# advent2022
-2022 Advent of Code challenge
+# advent2021
+2021 Advent of Code challenge
